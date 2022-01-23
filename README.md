@@ -61,6 +61,7 @@ My Notes (Part 2):[Notes.txt](https://github.com/amar3181/awesome-CISSP/files/79
 
 
 CCSP --------------------
+
 [CCSP cheatsheets 04-2021.pdf](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf)
 
 [CCSP_Spaces_Notes.pdf](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf)
