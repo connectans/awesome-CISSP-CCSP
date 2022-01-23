@@ -1,9 +1,11 @@
 # awesome-CISSP-CCSP
-CISSP study material repository
+CISSP & CCSP study material repository.
+
 Following my study for CISSP and CCSP exam and passing successfully I noticied a lot of aspirants struggle with notes. While there are lot of video tutorials and study books it boils down to core concepts and notes to clear the exams.
+
 Consolidating all the notes and materials I could from my end and encourage other to add.
 
-Note: I am not adding any books or video tuturials are they are availabale over many channels easily but would recommend two books below which are quite helpful and less known apart from any official kit you may choose.
+Note: I am not adding any books or video tuturials are they are available over many channels (You should know those if you are in security) easily but would recommend two books below which are quite helpful and less known apart from any official kit you may choose.
 
 CISSP: CISSP Rapid Review - https://www.flipkart.com/cissp-rapid-review/p/itme8n8p5tfve4kf
 
