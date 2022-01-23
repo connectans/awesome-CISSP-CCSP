@@ -27,8 +27,6 @@ My Notes (Part 2):[Notes.txt](https://github.com/amar3181/awesome-CISSP/files/79
 
 [CISSP Exam Refresh Guide.pdf](https://github.com/amar3181/awesome-CISSP/files/7920274/CISSP.Exam.Refresh.Guide.pdf)
 
-[CISSP Exam Refresh Guide-1.pdf](https://github.com/amar3181/awesome-CISSP/files/7920275/CISSP.Exam.Refresh.Guide-1.pdf)
-
 [CISSP Exam Study Guide -1.pdf](https://github.com/amar3181/awesome-CISSP/files/7920276/CISSP.Exam.Study.Guide.-1.pdf)
 
 [CISSP In-Short.pdf](https://github.com/amar3181/awesome-CISSP/files/7920277/CISSP.In-Short.pdf)
@@ -42,8 +40,6 @@ My Notes (Part 2):[Notes.txt](https://github.com/amar3181/awesome-CISSP/files/79
 [CISSP Study Notes .pdf](https://github.com/amar3181/awesome-CISSP/files/7920281/CISSP.Study.Notes.pdf)
 
 [CISSP Study Notes from CISSP Prep Guide.pdf](https://github.com/amar3181/awesome-CISSP/files/7920282/CISSP.Study.Notes.from.CISSP.Prep.Guide.pdf)
-
-[CISSP Study Notes from CISSP Prep Guide-1.pdf](https://github.com/amar3181/awesome-CISSP/files/7920283/CISSP.Study.Notes.from.CISSP.Prep.Guide-1.pdf)
 
 [CISSP.pdf](https://github.com/amar3181/awesome-CISSP/files/7920284/CISSP.pdf)
 
