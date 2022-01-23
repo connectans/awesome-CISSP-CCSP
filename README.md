@@ -6,3 +6,5 @@ Consolidating all the notes and materials I could from my end and encourage othe
 [CBK v1.0.pdf](https://github.com/amar3181/awesome-CISSP/files/7920220/CBK.v1.0.pdf)
 
 [Notes.txt](https://github.com/amar3181/awesome-CISSP/files/7920221/Notes.txt)
+
+
