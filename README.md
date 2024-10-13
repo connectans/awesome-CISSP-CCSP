@@ -5,12 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://connectans.github.io/](https://connectans.github.io/)
 
-- 💬 Ask me about **information security**
+- 💬 Ask me about: Information Security
 
-- 📫 How to reach me **amar.ncet@gmail.com**
+- 📫 How to reach me : https://www.linkedin.com/in/connectamar/
 
-- 📄 Know about my experiences [Security Architect with over 15 years of experience, I specialize in designing and implementing robust security solutions that safeguard critical assets and ensure compliance with industry standards. My expertise spans across enterprise security architecture, risk management, and advanced threat mitigation, coupled with a deep understanding of the latest cybersecurity trends and technologies. I have a proven track record of enhancing security postures for diverse organizations, through strategic planning and innovative security frameworks. Passionate about fortifying digital landscapes, I am dedicated to delivering secure, scalable, and resilient systems.]
-<h3 align="left">Connect with me:</h3>
+- 📄 Security Architect with over 15 years of experience, I specialize in designing and implementing robust security solutions that safeguard critical assets and ensure compliance with industry standards. My expertise spans across enterprise security architecture, risk management, and advanced threat mitigation, coupled with a deep understanding of the latest cybersecurity trends and technologies. I have a proven track record of enhancing security postures for diverse organizations, through strategic planning and innovative security frameworks. Passionate about fortifying digital landscapes, I am dedicated to delivering secure, scalable, and resilient systems.
 <p align="left">
 </p>
 
@@ -22,78 +21,47 @@ CISSP & CCSP study material repository.
 Welcome to the Certified Information Systems Security Professional (CISSP) training program! As one of the most recognized and respected certifications in the field of information security, CISSP equips professionals with the knowledge and skills necessary to design, implement, and manage a best-in-class cybersecurity program. This training is designed for experienced security practitioners, managers, and executives who want to demonstrate their expertise in information security.
 
 **Notes Section**
-As you progress through the training, use this notes section to jot down important concepts, questions, and insights. Here are a few prompts to guide your note-taking:
+As you progress through your preparation, use these notes section to jolt down important concepts, questions, and insights. 
 
-Key Concepts: Summarize the main ideas from each domain.
-Important Definitions: Note any critical terms and their meanings.
-Real-World Applications: Think about how you can apply what you learn in your current role.
-Questions for Clarification: Write down any questions that arise during the training to discuss later.
-Study Strategies: Keep track of effective study methods and resources that work for you.
+ - Key Concepts: Summarize the main ideas from each domain. 
+ - Important Definitions: Note any critical terms and their meanings. 
+ - Real-World Applications: Think about how you can apply what you learn in your current role. 
+ - Questions for Clarification: Write    down any questions that arise during the training to discuss later.      
+ - Study Strategies: Keep track of effective study methods and resources    that work for you.
+
 Remember, this training is not just about passing the exam; it’s about building a strong foundation in information security that you can leverage throughout your career. Let’s get started!
 
-Following my study for CISSP and CCSP exam and passing successfully I noticied a lot of aspirants struggle with notes. While there are lot of video tutorials and study books it boils down to core concepts and notes to clear the exams.
+Following my study for CISSP and CCSP exam and passing successfully in first attempt only doing self study I noticed a lot of aspirants struggle with notes to comb through the vast information. While there are lot of video tutorials and study books it boils down to core concepts and notes to clear the exams. Consolidating all the notes and materials I could from my end and encourage other to add.
 
-Consolidating all the notes and materials I could from my end and encourage other to add.
+Important books references apart from official guides.
 
-Apart from notes two most useful books to references.
+**| CISSP | [CISSP Rapid Review](https://www.flipkart.com/cissp-rapid-review/p/itme8n8p5tfve4kf) | 
+ | **CCSP** | [**CCSP Cloud Guardians**](https://www.amazon.in/CCSP-Cloud-Guardians-Certified-Professional-ebook/dp/B08WPFF25F) |**
 
-CISSP: CISSP Rapid Review - https://www.flipkart.com/cissp-rapid-review/p/itme8n8p5tfve4kf
-
-CCSP: CCSP Cloud Guardians - https://www.amazon.in/CCSP-Cloud-Guardians-Certified-Professional-ebook/dp/B08WPFF25F
-
-CISSP: ------------------------------------
-
-My Notes:[CBK v1.0.pdf](https://github.com/amar3181/awesome-CISSP/files/7920220/CBK.v1.0.pdf)
-
-My Notes (Part 2):[Notes.txt](https://github.com/amar3181/awesome-CISSP/files/7920221/Notes.txt)
-
-[CISSP - Practice Assessment - Without Answers.pdf](https://github.com/amar3181/awesome-CISSP/files/7920270/CISSP.-.Practice.Assessment.-.Without.Answers.pdf)
-
-[Key Tables, Charts and Flows for SSCP _ CISSP.pdf](https://github.com/amar3181/awesome-CISSP/files/7920271/Key.Tables.Charts.and.Flows.for.SSCP._.CISSP.pdf)
-
-[CISSP ACRONYM Edge.pdf](https://github.com/amar3181/awesome-CISSP/files/7920272/CISSP.ACRONYM.Edge.pdf)
-
-[CISSP Cheat Sheet Series.pdf](https://github.com/amar3181/awesome-CISSP/files/7920273/CISSP.Cheat.Sheet.Series.pdf)
-
-[CISSP Exam Refresh Guide.pdf](https://github.com/amar3181/awesome-CISSP/files/7920274/CISSP.Exam.Refresh.Guide.pdf)
-
-[CISSP Exam Study Guide -1.pdf](https://github.com/amar3181/awesome-CISSP/files/7920276/CISSP.Exam.Study.Guide.-1.pdf)
-
-[CISSP In-Short.pdf](https://github.com/amar3181/awesome-CISSP/files/7920277/CISSP.In-Short.pdf)
-
-[CISSP Last Minute Review, By - Certmike.pdf](https://github.com/amar3181/awesome-CISSP/files/7920278/CISSP.Last.Minute.Review.By.-.Certmike.pdf)
-
-[CISSP NOTES.pdf](https://github.com/amar3181/awesome-CISSP/files/7920279/CISSP.NOTES.pdf)
-
-[CISSP Process Guide.pdf](https://github.com/amar3181/awesome-CISSP/files/7920280/CISSP.Process.Guide.pdf)
-
-[CISSP Study Notes .pdf](https://github.com/amar3181/awesome-CISSP/files/7920281/CISSP.Study.Notes.pdf)
-
-[CISSP Study Notes from CISSP Prep Guide.pdf](https://github.com/amar3181/awesome-CISSP/files/7920282/CISSP.Study.Notes.from.CISSP.Prep.Guide.pdf)
-
-[CISSP.pdf](https://github.com/amar3181/awesome-CISSP/files/7920284/CISSP.pdf)
-
-[CISSP_Combined_Notes.pdf](https://github.com/amar3181/awesome-CISSP/files/7920285/CISSP_Combined_Notes.pdf)
-
-[Fadis-CISSP-Process-guide-v20.pdf](https://github.com/amar3181/awesome-CISSP/files/7920286/Fadis-CISSP-Process-guide-v20.pdf)
-
-[The-CCCure-CISSP-2021-CBK-Update.pdf](https://github.com/amar3181/awesome-CISSP/files/7920287/The-CCCure-CISSP-2021-CBK-Update.pdf)
-
-[300_Questions_and_Answers_CISSP.pdf](https://github.com/amar3181/awesome-CISSP/files/7920288/300_Questions_and_Answers_CISSP.pdf)
-
-[CISSP - Domain Refresh.pdf](https://github.com/amar3181/awesome-CISSP/files/7920289/CISSP.-.Domain.Refresh.pdf)
-
-[CISSP - Malicious Code and Application Attacks.pdf](https://github.com/amar3181/awesome-CISSP/files/7920290/CISSP.-.Malicious.Code.and.Application.Attacks.pdf)
-
-[CISSP - NOTES.pdf](https://github.com/amar3181/awesome-CISSP/files/7920291/CISSP.-.NOTES.pdf)
-
-
-CCSP --------------------
-
-[CCSP cheatsheets 04-2021.pdf](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf)
-
-[CCSP_Spaces_Notes.pdf](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf)
-
-[CIRRUS-8000-ft-of-CCSP-Course.pdf](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf)
-[Uploading The sunflower CISSP Summary Version 2.0.pdf…]()
-
+**NOTES REFERENCES:**
+| CISSP | Notes |
+|--|--|
+| CISSP comprehensive and effective notes | [Link](https://github.com/amar3181/awesome-CISSP/files/7920220/CBK.v1.0.pdf) |
+| Key Table and charts for CISSP and SSCP | [Link](https://github.com/amar3181/awesome-CISSP/files/7920271/Key.Tables.Charts.and.Flows.for.SSCP._.CISSP.pdf) |
+| CISSP Acronym | [Link](https://github.com/amar3181/awesome-CISSP/files/7920272/CISSP.ACRONYM.Edge.pdf) |
+| CISSP CheatSheet Series | [Link](https://github.com/amar3181/awesome-CISSP/files/7920273/CISSP.Cheat.Sheet.Series.pdf) |
+| CISSP Exam Refresher | [Link](https://github.com/amar3181/awesome-CISSP/files/7920274/CISSP.Exam.Refresh.Guide.pdf) |
+| CISSP Study Guide Netwrix | [Link](https://github.com/amar3181/awesome-CISSP/files/7920276/CISSP.Exam.Study.Guide.-1.pdf) |
+| CISSP Mindmap Short Notes | [Link](https://github.com/amar3181/awesome-CISSP/files/7920277/CISSP.In-Short.pdf) |
+| CISSP Last Minute Review Certmike | [Link](https://github.com/amar3181/awesome-CISSP/files/7920278/CISSP.Last.Minute.Review.By.-.Certmike.pdf) |
+| CISSP Process Guide Fadi | [Link](https://github.com/amar3181/awesome-CISSP/files/7920280/CISSP.Process.Guide.pdf) |
+| CISSP Prep Guide | [Link](https://github.com/amar3181/awesome-CISSP/files/7920281/CISSP.Study.Notes.pdf) |
+| CISSP Mindmap Small | [Link](https://github.com/amar3181/awesome-CISSP/files/7920284/CISSP.pdf) |
+| CISSP CCCure | [Link](https://github.com/amar3181/awesome-CISSP/files/7920287/The-CCCure-CISSP-2021-CBK-Update.pdf) |
+| CISSP Sunflower Guide | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/The%20sunflower%20CISSP%20Summary%20Version%202.0.pdf) |
+| CISSP Cornell Study Guides |[Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/Cissp%20Cornell%20Notes%20Domain%201%20.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Cornell%20Notes%20Domain%202.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Cornell%20Notes%20Domain%203.pdf)  |
+| CISSP Handwritten Notes | Link |
+| CISSP Study Guide (John) | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Study%20Guide.pdf) |
+-----------------
+## CCSP
+****NOTES REFERENCES:**
+| CCSP | Notes |
+|--|--|
+| CCSP CheatSheet | [Link](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf) |
+| CCSP Space Notes | [Link](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf) |
+| CIRRUS CCSP | [Link](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf) |
