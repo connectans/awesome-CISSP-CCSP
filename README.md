@@ -62,7 +62,7 @@ Important books references apart from official guides.
 | CISSP Study Guide (John) | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Study%20Guide.pdf) |
 -----------------
 ## CCSP
-****NOTES REFERENCES:**
+**NOTES REFERENCES:**
 | CCSP | Notes |
 |--|--|
 | CCSP CheatSheet | [Link](https://github.com/amar3181/awesome-CISSP/files/7920302/CCSP.cheatsheets.04-2021.pdf) |
