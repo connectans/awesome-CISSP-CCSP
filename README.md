@@ -58,7 +58,7 @@ Important books references apart from official guides.
 | CISSP CCCure | [Link](https://github.com/amar3181/awesome-CISSP/files/7920287/The-CCCure-CISSP-2021-CBK-Update.pdf) |
 | CISSP Sunflower Guide | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/The%20sunflower%20CISSP%20Summary%20Version%202.0.pdf) |
 | CISSP Cornell Study Guides |[Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/Cissp%20Cornell%20Notes%20Domain%201%20.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Cornell%20Notes%20Domain%202.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Cornell%20Notes%20Domain%203.pdf)  |
-| CISSP Handwritten Notes | Link |
+| CISSP Handwritten Notes | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/handwritten%20notes/HWN-pages-1.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/handwritten%20notes/HWN-pages-2.pdf) [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/handwritten%20notes/HWN-pages-3.pdf)  |
 | CISSP Study Guide (John) | [Link](https://github.com/connectans/awesome-CISSP-CCSP/blob/main/asset/CISSP%20Study%20Guide.pdf) |
 -----------------
 ## CCSP
