@@ -1,11 +1,22 @@
 # awesome-CISSP-CCSP
 CISSP & CCSP study material repository.
+Welcome to the Certified Information Systems Security Professional (CISSP) training program! As one of the most recognized and respected certifications in the field of information security, CISSP equips professionals with the knowledge and skills necessary to design, implement, and manage a best-in-class cybersecurity program. This training is designed for experienced security practitioners, managers, and executives who want to demonstrate their expertise in information security.
+
+**Notes Section**
+As you progress through the training, use this notes section to jot down important concepts, questions, and insights. Here are a few prompts to guide your note-taking:
+
+Key Concepts: Summarize the main ideas from each domain.
+Important Definitions: Note any critical terms and their meanings.
+Real-World Applications: Think about how you can apply what you learn in your current role.
+Questions for Clarification: Write down any questions that arise during the training to discuss later.
+Study Strategies: Keep track of effective study methods and resources that work for you.
+Remember, this training is not just about passing the exam; it’s about building a strong foundation in information security that you can leverage throughout your career. Let’s get started!
 
 Following my study for CISSP and CCSP exam and passing successfully I noticied a lot of aspirants struggle with notes. While there are lot of video tutorials and study books it boils down to core concepts and notes to clear the exams.
 
 Consolidating all the notes and materials I could from my end and encourage other to add.
 
-Note: I am not adding any books or video tuturials are they as many are available over many channels (You should know those if you are in security) easily but would recommend two books below which are quite helpful and less known apart from any official kit you may choose.
+Apart from notes two most useful books to references.
 
 CISSP: CISSP Rapid Review - https://www.flipkart.com/cissp-rapid-review/p/itme8n8p5tfve4kf
 
