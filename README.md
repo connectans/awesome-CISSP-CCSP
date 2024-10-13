@@ -95,4 +95,5 @@ CCSP --------------------
 [CCSP_Spaces_Notes.pdf](https://github.com/amar3181/awesome-CISSP/files/7920303/CCSP_Spaces_Notes.pdf)
 
 [CIRRUS-8000-ft-of-CCSP-Course.pdf](https://github.com/amar3181/awesome-CISSP/files/7920300/CIRRUS-8000-ft-of-CCSP-Course.pdf)
+[Uploading The sunflower CISSP Summary Version 2.0.pdf…]()
 
