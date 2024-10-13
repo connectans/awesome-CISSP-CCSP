@@ -1,4 +1,7 @@
-![ANS](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)
+
+<p align="center">
+  <img src="[demo.gif](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)" alt="ans" />
+</p>
 <h1 align="center">Hi 👋, I'm Amar Nath</h1>
 <h3 align="center">Security evangelist strategizing and delivering security programs with result oriented & growth focused architectural leadership.</h3>
 
